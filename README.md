@@ -1,4 +1,4 @@
-<img align="right" width="200" height="250" src="https://www.icegif.com/wp-content/uploads/luffy-icegif.gif">
+<img align="right" width="400" height="250" src="https://www.icegif.com/wp-content/uploads/luffy-icegif.gif">
 
 # Welcome! ✌🏻
 ## I'm Kendi! a little about myself...
