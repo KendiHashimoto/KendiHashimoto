@@ -4,8 +4,8 @@
 ## I'm Kendi! a little about myself...
 
  * I like technology and animes 🕵🏻‍♂️
- * 'm 18 years old
- * studying programming in my spare time 👾
+ * I'm 18 years old
+ * Studying programming in my spare time 👾
 
 ## Technologies that i'm studying 👨🏻‍💻 :
 * ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
