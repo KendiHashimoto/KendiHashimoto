@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/9a/56/e2/9a56e28fb37e6179943c9fd3974e0745.gif">
 
-<!--
-**Hashimoto1312/Hashimoto1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome! ✌🏻
+## I'm Kendi! a little about myself...
+***
+* I like technology and animes 🕵🏻‍♂️
+* I'm 18 years old
+* studying programming in my spare time 👾
 
-Here are some ideas to get you started:
+## Social networks 👇🏻
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+* Thanks for visiting.
