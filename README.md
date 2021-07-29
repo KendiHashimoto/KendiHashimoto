@@ -8,7 +8,7 @@
 * studying programming in my spare time 👾
 
 ## Social networks 👇🏻
-
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DenaN81320282)](https://twitter.com/DenaN81320282)
 
 
 
