@@ -23,4 +23,4 @@
   
 * Thanks for visiting.
 
-<img align="right" width="300" height="200" src="https://www.icegif.com/wp-content/uploads/luffy-icegif.gif">
+
