@@ -15,5 +15,5 @@
 ## Social networks 👇🏻
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DenaN81320282)](https://twitter.com/DenaN81320282)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hashimoto1312)](https://github.com/Hashimoto1312)
-[!(Instagram Badge)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/hashimoto01_01/) 
 * Thanks for visiting.
