@@ -1,4 +1,4 @@
-<img align="right" width="300" height="200" src="https://media0.giphy.com/media/PmLSyM6uVcY0na0yiZ/giphy.gif">
+<img align="right" width="400" height="400" src="https://media0.giphy.com/media/PmLSyM6uVcY0na0yiZ/giphy.gif">
 
 # Welcome! ✌🏻
 ## I'm Kendi! a little about myself...
