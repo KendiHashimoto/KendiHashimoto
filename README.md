@@ -8,7 +8,7 @@
 * studying programming in my spare time 👾
 
 technologies that I am studying... 👨🏻‍💻
-* 
+* ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 *
 
 ## Social networks 👇🏻
