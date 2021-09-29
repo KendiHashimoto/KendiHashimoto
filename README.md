@@ -21,5 +21,3 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Hashimoto1221/)
   
 * Thanks for visiting.
-
-
