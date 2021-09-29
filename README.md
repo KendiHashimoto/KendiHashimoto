@@ -6,7 +6,7 @@
  * I'm 18 years old
  * Studying programming in my spare time 👾
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&layout=compact&theme=tokyonight)](https://github.com/Hashimoto1312/github-readme-stats)
 
 ## Technologies that i'm studying 👨🏻‍💻 :
