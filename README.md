@@ -19,5 +19,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Hashimoto1312)](https://github.com/Hashimoto1312)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hashimoto01_01/)](https://www.instagram.com/hashimoto01_01/)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Hashimoto1221/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendi-hashimoto-202359220/)
   
 * Thanks for visiting.
