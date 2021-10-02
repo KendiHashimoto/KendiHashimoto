@@ -1,6 +1,6 @@
 
 # Welcome! ✌🏻
-## I'm Kendi! a little about myself...
+## I'm Kendi Hashimoto! a little about myself...
  * I like technology and animes 🕵🏻‍♂️
  * I'm 18 years old
  * Studying programming in my spare time 👾
