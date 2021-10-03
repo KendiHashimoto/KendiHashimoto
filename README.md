@@ -4,6 +4,7 @@
  * I like technology , games and animes (seinen,shounen)🕵🏻‍♂️
  * I'm 18 years old
  * Studying Front-end development 👾
+
 <div align="left">
   <a href="https://github.com/Hashimoto1312">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
