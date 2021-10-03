@@ -4,6 +4,7 @@
  * I like technology and animes 🕵🏻‍♂️
  * I'm 18 years old
  * Studying programming in my spare time 👾
+ <div align="left">
   <a href="https://github.com/Hashimoto1312">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&layout=compact&langs_count=7&theme=tokyonight"/>
