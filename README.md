@@ -1,18 +1,25 @@
 
-# Welcome! ✌🏻
-## I'm Kendi Hashimoto! a little about myself...
- * I like technology , games and animes (seinen,shounen)🕵🏻‍♂️
- * I'm 18 years old
- * Studying Front-end development 👾
+<div align="center">
+  <p><h1>Welcome! ✌🏻</h1></p>
+  <p><h2>I'm Kendi Hashimoto! a little about myself...</h2></p>
+</div
 
-<div align="left">
+<div>
+  <p align="center">
+    I like technology , games and animes (seinen,shounen)🕵🏻‍♂️<br>
+    I'm 18 years old<br>
+    tudying Front-end development 👾<br>
+ </p>
+</div>
+
+<div align="center">
   <a href="https://github.com/Hashimoto1312">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Technologies that i'm studying 👨🏻‍💻 :
-<div style="display: inline_block">
+<div align="center">
+  <h1>Technologies that i'm studying 👨🏻‍💻 : </h1>
   <img align="center" alt="Hashimoto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hashimoto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hashimoto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
