@@ -8,7 +8,7 @@
   <p align="center">
     I like technology , games and animes (seinen,shounen)🕵🏻‍♂️<br>
     I'm 18 years old<br>
-    studying Front-end development 👾<br>
+    Brazilian with Japanese ancestry<br>
  </p>
 </div>
 
