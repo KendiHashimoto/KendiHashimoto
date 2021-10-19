@@ -7,8 +7,8 @@
 <div>
   <p align="center">
     I like technology , games and animes (seinen,shounen)🕵🏻‍♂️<br>
-    I'm 18 years old<br>
     Brazilian with Japanese ancestry<br>
+    I'm 18 years old<br>
  </p>
 </div>
 
