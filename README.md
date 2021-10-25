@@ -27,7 +27,7 @@
   <img align="center" alt="Hashimoto-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Hashimoto-OPERA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
 </div>
-
+ 
 ## Social networks 👇🏻
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hashimoto01_01/)](https://www.instagram.com/hashimoto01_01/)<br>
