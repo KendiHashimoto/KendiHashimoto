@@ -1,18 +1,5 @@
 
 <div align="center">
-  <p><h1>Welcome! ✌🏻</h1></p>
-  <p><h2>I'm Kendi Hashimoto! a little about myself...</h2></p>
-</div
-
-<div>
-  <p align="center">
-    I like technology , games and animes (seinen,shounen)🕵🏻‍♂️<br>
-    Brazilian with Japanese ancestry<br>
-    I'm 18 years old<br>
- </p>
-</div>
-
-<div align="center">
   <a href="https://github.com/Hashimoto1312">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&layout=compact&langs_count=7&theme=tokyonight"/>
