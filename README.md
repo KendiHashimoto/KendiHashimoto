@@ -14,12 +14,19 @@
   <img align="center" alt="Hashimoto-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Hashimoto-OPERA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
   <img align="center" alt="Hashimoto-EXCEL" height="30" width="40" src="https://user-images.githubusercontent.com/71889483/139278575-fd8dbe6c-9c8d-40f4-a0d5-8b69cabbaeed.png">
-
 </div>
  
-## Social networks 👇🏻
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hashimoto01_01/)](https://www.instagram.com/hashimoto01_01/)<br>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendi-hashimoto-202359220/)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Hashimoto1221/)
-* Thanks for visiting.
+ ##
+  
+<div align="center"> 
+  <a href="https://www.instagram.com/hashimoto01_01/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150px" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/Hashimoto1221/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="150px" height="35px" target="_blank"></a>  
+</div>
+    
+ ##
+  
+ <div align="center">
+   <img src="https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif"</img>
+   <h2>Thanks for visiting</h2>
+ </div>
+  
