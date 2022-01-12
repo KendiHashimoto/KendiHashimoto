@@ -26,7 +26,7 @@
  ##
   
  <div align="center">
-   <img src="https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif"</img>
+   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"</img>
    <h2>Thanks for visiting</h2>
  </div>
   
