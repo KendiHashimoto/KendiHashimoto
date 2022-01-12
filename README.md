@@ -22,11 +22,3 @@
   <a href="https://www.instagram.com/hashimoto01_01/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150px" target="_blank"></a>
   <a href="https://steamcommunity.com/id/Hashimoto1221/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="150px" height="35px" target="_blank"></a>  
 </div>
-    
- ##
-  
- <div align="center">
-   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"</img>
-   <h2>Thanks for visiting</h2>
- </div>
-  
