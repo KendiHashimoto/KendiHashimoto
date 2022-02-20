@@ -11,8 +11,7 @@
   <img align="center" alt="Hashimoto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hashimoto-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Hashimoto-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Hashimoto-OPERA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
-  <img align="center" alt="Hashimoto-EXCEL" height="30" width="40" src="https://user-images.githubusercontent.com/71889483/139278575-fd8dbe6c-9c8d-40f4-a0d5-8b69cabbaeed.png">
+
  
  ##
   
