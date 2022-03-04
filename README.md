@@ -18,7 +18,6 @@
 </div>
   
 <div>
-    <h1> Social Networks</h1> 
       <a href="https://www.instagram.com/hashimoto01_01/"><img height="30" widht="40" src="https://icon-library.com/images/instagram-icon-png/instagram-icon-png-6.jpg" target="_blank"></a<br>
       <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
