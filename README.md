@@ -13,12 +13,11 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 </div>
   
 <div>
-      <a href="https://www.instagram.com/hashimoto01_01/"><img height="30" widht="40" src="https://icon-library.com/images/instagram-icon-png/instagram-icon-png-6.jpg" target="_blank"></a<br>
+      <a href="https://linktr.ee/Hashimoto01"><img height="30" widht="40" src="https://user-images.githubusercontent.com/71889483/156889938-97584807-6501-4b0a-8c06-e60bc48cb531.png" target="_blank"></a<br>
       <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
