@@ -1,11 +1,20 @@
 
 <div align="center">
-
-<div>
-  <a href="https://github.com/Hashimoto1312">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="52%"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&bg_color=040D27&layout=compact" width="44%"/>
+  </a>
+  
+  <a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width = "50%"/>
+  </a>
+  
+  <a href="https://github.com/Hashimoto1312/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hashimoto&hide_border=true&theme=algolia" width="40%" />
+  </a>
     
  <div>
     <h1>Languages and tools 🔨<br>
@@ -16,8 +25,8 @@
 </div>
   
 <div>
-      <a href="https://linktr.ee/Hashimoto01"><img height="30" widht="40" src="https://user-images.githubusercontent.com/71889483/156889938-97584807-6501-4b0a-8c06-e60bc48cb531.png" target="_blank"></a<br>
-      <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://linktr.ee/Hashimoto01"><img height="30" widht="40" src="https://user-images.githubusercontent.com/71889483/156889938-97584807-6501-4b0a-8c06-e60bc48cb531.png" target="_blank"></a<br>
+  <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40"                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
   <h2> Thanks for visting.
