@@ -9,8 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&hide_border=true&bg_color=040D27&layout=compact" width="44%"/>
   </a>
   
-  <a href="http://www.github.com/Hashimoto1312"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashimoto1312&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width = "50%"/>
+  <a href="http://www.github.com/KendiHashimoto"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KendiHashimoto&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width="50%"/>
   </a>
   
   <a href="https://github.com/Hashimoto1312/github-readme-stats">
