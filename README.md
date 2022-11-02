@@ -2,19 +2,19 @@
 <div align="center">
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="52%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="54%"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KendiHashimoto&hide_border=true&bg_color=040D27&layout=compact" width="44%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KendiHashimoto&hide_border=true&bg_color=040D27&layout=compact" width="45%"/>
   </a>
   
   <a href="http://www.github.com/KendiHashimoto"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KendiHashimoto&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width="55%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KendiHashimoto&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width="56%"/>
   </a>
   
   <a href="https://github.com/Hashimoto1312/github-readme-stats">
-    <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hashimoto&hide_border=true&theme=algolia" width="41%" />
+    <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hashimoto&hide_border=true&theme=algolia" width="43%" />
   </a>
     
  <div>
