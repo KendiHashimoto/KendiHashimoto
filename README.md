@@ -10,11 +10,11 @@
   </a>
   
   <a href="http://www.github.com/KendiHashimoto"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KendiHashimoto&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KendiHashimoto&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" width="55%"/>
   </a>
   
   <a href="https://github.com/Hashimoto1312/github-readme-stats">
-    <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hashimoto&hide_border=true&theme=algolia" width="45%" />
+    <img align"left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hashimoto&hide_border=true&theme=algolia" width="41%" />
   </a>
     
  <div>
