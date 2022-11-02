@@ -2,11 +2,11 @@
 <div align="center">
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hashimoto1312&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="52%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="52%"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimoto1312&hide_border=true&bg_color=040D27&layout=compact" width="44%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KendiHashimoto&hide_border=true&bg_color=040D27&layout=compact" width="44%"/>
   </a>
   
   <a href="http://www.github.com/KendiHashimoto"/>
