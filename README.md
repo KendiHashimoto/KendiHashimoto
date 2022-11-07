@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1>Status</h1>
+  <h1>Statuses</h1>
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="54%"/>
