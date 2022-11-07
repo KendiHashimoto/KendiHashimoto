@@ -1,5 +1,8 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009BE4&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B;I'm+Frontend+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <div align="center">
+  
+  <h1>Status</h1>
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="54%"/>
@@ -25,10 +28,10 @@
     <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </div>
   
-<div>
+ <div>
   <a href="https://linktr.ee/Hashimoto01"><img height="30" widht="40" src="https://user-images.githubusercontent.com/71889483/156889938-97584807-6501-4b0a-8c06-e60bc48cb531.png" target="_blank"></a<br>
   <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40"                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
-  <h2> Thanks for visting.
+   <h2>Thanks for visiting</h2>
 </div>
