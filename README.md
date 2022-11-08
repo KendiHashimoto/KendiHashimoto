@@ -6,21 +6,20 @@
 
 # Hello there! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
   
- <div align="right" width="50">
-    <img src="https://github.com/KendiHashimoto/KendiHashimoto/blob/master/programming%20anime.gif")
+ <div align="right">
+    <img src="https://github.com/KendiHashimoto/KendiHashimoto/blob/master/programming%20anime.gif" width="400")
  </div>
- <div align="left"
-  👨‍💻 My name is Kendi Hashimoto
-  
-  🌱 I’m currently learning avaScript
-  
-  📫 How to reach me kendi.campos@hotmail.com
-  
-  ⚡ Fun fact : My favorite food is onigiri 🍙
+ <div align="left" style="display: inline;"
+      <ul>
+        <li>👨‍💻 My name is Kendi Hashimoto</li>
+        <li>🌱 I’m currently learning avaScript</li>
+        <li>📫 How to reach me kendi.campos@hotmail.com</li>
+        <li>⚡ Fun fact : My favorite food is onigiri 🍙</li>
+      </ul
  </div>
 
 <div align="center">
-  <h1>Statuses</h1>
+  <h1>📊 Statuses</h1>
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KendiHashimoto&show_icons=true&hide_border=true&theme=algolia&count_private=true" width="54%"/>
