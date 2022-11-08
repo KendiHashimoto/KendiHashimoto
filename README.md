@@ -1,14 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009BE4&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B;I'm+Frontend+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div>
+  <a 
+    href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009BE4&width=435&lines=Welcome+to+my+profile+%F0%9F%91%8B;I'm+Frontend+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</div>
 
-  # Hello there!
+# Hello there! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
   
-  - My name is Kendi Hashimoto 👨‍💻
-  - 🌱 I’m currently learning **JavaScript** 
-  - 📫 How to reach me **kendi.campos@hotmail.com**
-  - ⚡ Fun fact : **My favorite food is onigiri 🍙**
+ <div align="right" width="50">
+    <img src="https://github.com/KendiHashimoto/KendiHashimoto/blob/master/programming%20anime.gif")
+ </div>
+ <div align="left"
+  👨‍💻 My name is Kendi Hashimoto
+  
+  🌱 I’m currently learning avaScript
+  
+  📫 How to reach me kendi.campos@hotmail.com
+  
+  ⚡ Fun fact : My favorite food is onigiri 🍙
+ </div>
 
 <div align="center">
-  
   <h1>Statuses</h1>
   
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
