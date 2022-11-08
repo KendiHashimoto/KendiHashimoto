@@ -4,19 +4,19 @@
   </a>
 </div>
 
-# Hello there! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
+# Hello there! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30"></img>
   
- <div align="right">
+ <div align="center">
     <img src="https://github.com/KendiHashimoto/KendiHashimoto/blob/master/programming%20anime.gif" width="400")
- </div>
- <div align="left" style="display: inline;"
-      <ul>
-        <li>👨‍💻 My name is Kendi Hashimoto</li>
-        <li>🌱 I’m currently learning avaScript</li>
-        <li>📫 How to reach me kendi.campos@hotmail.com</li>
-        <li>⚡ Fun fact : My favorite food is onigiri 🍙</li>
-      </ul
- </div>
+ </div> 
+    
+  👨‍💻 My name is Kendi Hashimoto     
+    
+  🌱 I’m currently learning JavaScript
+    
+  📫 How to reach me : kendi.campos@hotmail.com
+    
+  ⚡ Fun fact : My favorite food is onigiri 🍙
 
 <div align="center">
   <h1>📊 Statuses</h1>
