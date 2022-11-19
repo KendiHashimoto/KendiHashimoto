@@ -38,17 +38,22 @@
   </a>
     
  <div>
+   <h2>👨‍💻 Languages and tools 🔨</h2>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-    <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" height="30" src="https://vitejs.dev/logo-with-shadow.png">
+    <img align="center" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
 </div>
   
- <div>
+<div>
+  <h2>💬 Social</h2>
   <a href="https://linktr.ee/Hashimoto01"><img height="30" widht="40" src="https://user-images.githubusercontent.com/71889483/156889938-97584807-6501-4b0a-8c06-e60bc48cb531.png" target="_blank"></a<br>
   <a href="https://www.linkedin.com/in/kendi-hashimoto-202359220/"><img height="30"   width="40"                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
-   <h2>Thanks for visiting</h2>
+   <h2>Thanks for visiting! 👋</h2>
 </div>
